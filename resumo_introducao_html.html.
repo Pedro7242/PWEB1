@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html>
 <h1>Exemplo completo de html</h1>
 <h2>Introdução ao html</h2> 
 <p>O HTML pode ser mais uma sigla que envolve o desenvolvimento de sistemas. HTML não é uma linguagem de programação, e sim uma linguagem de marcação, usada para definir a estrutura do seu conteúdo, que atua diretamente na produção e desenvolvimento de sites.</p>
@@ -16,11 +16,13 @@
 5. XHTML (2000)<i>: <b>Uma reformulação do HTML que seguia as regras do XML, promovendo uma estrutura mais rigorosa e limpa.</b></p>
 <h3>Elementos do html</h3>
 <p>Uma tag HTML deve conter três partes:
-<b>Uma tag de abertura — começando com um símbolo < >;
+<b>Uma tag de abertura — começando com um símbolo de maior que com o de menor que;
 Conteúdo — instruções curtas para exibir o elemento na página;
-Uma tag de fechamento</b> — <i>terminando com um símbolo </ >.</i>
+Uma tag de fechamento</b> — <i>terminando com um símbolo maior que, barra, menor que.</i>
 <h3>Html na prática</h3>
 <p><b>Praticar HTML é fundamental para se tornar um desenvolvedor web competente</b>. <i>Comece com a estrutura básica de um documento, familiarizando-se com as principais tags, como DOCTYPE html, html, head, e body. Explore elementos como cabeçalhos (h1 a h6), parágrafos (p), listas (ul, ol, li), links (a) e imagens (img)</p></i>.
 <p><b>Finalizando em resumo, a prática do HTML é essencial para o desenvolvimento web</b>.<i> Começar com a estrutura básica, explorar diferentes elementos e trabalhar com formulários e acessibilidade são passos fundamentais. Integrar CSS para estilizar suas páginas e utilizar validadores para garantir a qualidade do seu código também são importantes. Realizar projetos práticos ajudará a consolidar seu aprendizado e, ao se manter atualizado sobre novas tendências e práticas, você se tornará um desenvolvedor web mais eficaz.</p></i>
+<blockcote>A linguagem HTML especifica elementos para construir estruturas como: formatação de texto, parágrafo, lista, tabela, etc. Cada elemento, em geral, é composto por três partes: etiqueta inicial + conteúdo + etiqueta final. O elemento itálico exemplifica esta estrutura genérica.</blockcote>                                           
 <a href="/sobre.html">Fim da página</a><br>
 <a href="#secao1">Ir para o Início
+</html>
